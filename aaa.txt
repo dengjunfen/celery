@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 vvvbbbaaaaaaaaaaaaaaaaaaa
-=======
-hhhjjjaaaaaaaaaaaaaaaaaaa
->>>>>>> dev
